@@ -41,7 +41,15 @@ section#login > div#imagem {
     background-position: left center;
     height: 200px;
 }
- section#login > div#formulário {
+ section#login > div#formularios {
     display: block;
     padding: 10px;
+    
+ }
+ div#formularios > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+ }
+ div#formularios > p {
+    font-size: .8em;
  }
